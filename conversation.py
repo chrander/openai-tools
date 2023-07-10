@@ -1,7 +1,7 @@
 import openai
 
 
-GPT4 = "gpt-4"
+GPT4 = "GPT4"
 GPT35 = "GPT35"
 MODELS = {
     GPT4: "gpt-4",
